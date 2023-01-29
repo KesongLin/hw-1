@@ -140,6 +140,10 @@ From my_vec_bool we can easily see that there are 4 false, so there are 4 elemen
 
 1. Sort the values of `my_vec_double` in ascending order. 
 
+```{r}
+my_vec_double <- sort(my_vec_double)
+my_vec_double
+```
 
 <br><br><br><br>
 <br><br><br><br>
